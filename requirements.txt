@@ -1,5 +1,7 @@
-Flask
-requests
-newspaper3k
-transformers
-torch  
+numpy
+pandas
+matplotlib
+yfinance
+keras
+streamlit
+
