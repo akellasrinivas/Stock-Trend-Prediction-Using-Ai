@@ -5,4 +5,3 @@ yfinance
 keras
 streamlit
 tensorflow
-sklearn
