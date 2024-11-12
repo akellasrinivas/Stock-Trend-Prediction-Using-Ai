@@ -45,6 +45,9 @@ streamlit run app.py
 ```
 4. Open your web browser and visit http://localhost:5000 to access the Application.
 
+# Preview 
+-Checkout the about section for the app link
+
 ## Authors
 - Akella Srinivas
 
