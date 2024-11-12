@@ -31,3 +31,32 @@ This project predicts stock trends using historical data and machine learning mo
 ```bash
 git clone https://github.com/akellasrinivas/Stock-Trend-Prediction-Using-Ai-.git
 ```
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+- Run every cell in .ipynb file.
+
+3. Start the application:
+
+```bash
+streamlit run app.py
+```
+4. Open your web browser and visit http://localhost:5000 to access the Application.
+
+## Authors
+- Akella Srinivas
+
+## Contribution
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Contact
+
+For any inquiries or further information, please contact [akells srinivas] via email at [akellasrinivas322@gmail.com].
+
