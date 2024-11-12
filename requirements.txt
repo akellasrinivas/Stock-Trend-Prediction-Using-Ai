@@ -4,4 +4,4 @@ matplotlib
 yfinance
 keras
 streamlit
-
+tensorflow
