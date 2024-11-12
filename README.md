@@ -4,7 +4,7 @@ This project predicts stock trends using historical data and machine learning mo
 
 ## Web UI
 
-![Web UI](images/Screenshot%202024-11-11%20151022.png)
+![Web UI](images/Picture1.png)
 
 ## Features
 
